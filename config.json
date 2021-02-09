@@ -85,13 +85,6 @@
         "inboundTag": ["tg-in"],
         "outboundTag": "tg-out"
       }
-      ,
-      {
-        "type": "field",
-        "domain": [
-        ],
-        "outboundTag": "blocked"
-      }
     ]
   },
   "transport": {
