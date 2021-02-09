@@ -1,2 +1,2 @@
-# v2
-v2 config
+# Sample config of v2ray on server 
+
